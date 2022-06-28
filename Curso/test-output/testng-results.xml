@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching...https://opensource-demo.orangehrmlive.com/]]>
+    </line>
+    <line>
+      <![CDATA[Login into Orange open source]]>
+    </line>
+    <line>
+      <![CDATA[Validate that you have logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Click Admin - Go to the admin page]]>
+    </line>
+    <line>
+      <![CDATA[Search username in field]]>
+    </line>
+    <line>
+      <![CDATA[Verify value in search table]]>
+    </line>
+    <line>
+      <![CDATA[Logout into Orange open source]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser]]>
+    </line>
+    <line>
+      <![CDATA[Launching...https://opensource-demo.orangehrmlive.com/]]>
+    </line>
+    <line>
+      <![CDATA[Login into Orange open source]]>
+    </line>
+    <line>
+      <![CDATA[Validate that you have logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Click Admin - Go to the admin page]]>
+    </line>
+    <line>
+      <![CDATA[Search username in field]]>
+    </line>
+    <line>
+      <![CDATA[Verify value in search table]]>
+    </line>
+    <line>
+      <![CDATA[Logout into Orange open source]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser]]>
+    </line>
+    <line>
+      <![CDATA[Launching...https://opensource-demo.orangehrmlive.com/]]>
+    </line>
+    <line>
+      <![CDATA[Login into Orange open source]]>
+    </line>
+    <line>
+      <![CDATA[Validate that you have logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Click Admin - Go to the admin page]]>
+    </line>
+    <line>
+      <![CDATA[Search username in field]]>
+    </line>
+    <line>
+      <![CDATA[Verify value in search table]]>
+    </line>
+    <line>
+      <![CDATA[Logout into Orange open source]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser]]>
+    </line>
+  </reporter-output>
+  <suite name="Regression_QA" duration-ms="23583" started-at="2021-02-27T11:32:49 CST" finished-at="2021-02-27T11:33:12 CST">
+    <groups>
+    </groups>
+    <test name="TC001" duration-ms="8275" started-at="2021-02-27T11:32:49 CST" finished-at="2021-02-27T11:32:57 CST">
+      <class name="com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM@15b204a1]" name="beforeTest" is-config="true" duration-ms="1982" started-at="2021-02-27T11:32:49 CST" finished-at="2021-02-27T11:32:51 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TC001_Admin_SearchEmployee_POM_TestScript()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM@15b204a1]" name="TC001_Admin_SearchEmployee_POM_TestScript" duration-ms="6075" started-at="2021-02-27T11:32:51 CST" finished-at="2021-02-27T11:32:57 CST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching...https://opensource-demo.orangehrmlive.com/]]>
+            </line>
+            <line>
+              <![CDATA[Login into Orange open source]]>
+            </line>
+            <line>
+              <![CDATA[Validate that you have logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Click Admin - Go to the admin page]]>
+            </line>
+            <line>
+              <![CDATA[Search username in field]]>
+            </line>
+            <line>
+              <![CDATA[Verify value in search table]]>
+            </line>
+            <line>
+              <![CDATA[Logout into Orange open source]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC001_Admin_SearchEmployee_POM_TestScript -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM@15b204a1]" name="afterTest" is-config="true" duration-ms="159" started-at="2021-02-27T11:32:57 CST" finished-at="2021-02-27T11:32:57 CST">
+          <reporter-output>
+            <line>
+              <![CDATA[Close Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM -->
+    </test> <!-- TC001 -->
+    <test name="TC002" duration-ms="8080" started-at="2021-02-27T11:32:57 CST" finished-at="2021-02-27T11:33:05 CST">
+      <class name="com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM@1677d1]" name="beforeTest" is-config="true" duration-ms="1275" started-at="2021-02-27T11:32:57 CST" finished-at="2021-02-27T11:32:58 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TC001_Admin_SearchEmployee_POM_TestScript()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM@1677d1]" name="TC001_Admin_SearchEmployee_POM_TestScript" duration-ms="6713" started-at="2021-02-27T11:32:58 CST" finished-at="2021-02-27T11:33:05 CST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching...https://opensource-demo.orangehrmlive.com/]]>
+            </line>
+            <line>
+              <![CDATA[Login into Orange open source]]>
+            </line>
+            <line>
+              <![CDATA[Validate that you have logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Click Admin - Go to the admin page]]>
+            </line>
+            <line>
+              <![CDATA[Search username in field]]>
+            </line>
+            <line>
+              <![CDATA[Verify value in search table]]>
+            </line>
+            <line>
+              <![CDATA[Logout into Orange open source]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC001_Admin_SearchEmployee_POM_TestScript -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM@1677d1]" name="afterTest" is-config="true" duration-ms="89" started-at="2021-02-27T11:33:05 CST" finished-at="2021-02-27T11:33:05 CST">
+          <reporter-output>
+            <line>
+              <![CDATA[Close Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM -->
+    </test> <!-- TC002 -->
+    <test name="TC003" duration-ms="7186" started-at="2021-02-27T11:33:05 CST" finished-at="2021-02-27T11:33:12 CST">
+      <class name="com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM@4313f5bc]" name="beforeTest" is-config="true" duration-ms="1334" started-at="2021-02-27T11:33:05 CST" finished-at="2021-02-27T11:33:07 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TC001_Admin_SearchEmployee_POM_TestScript()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM@4313f5bc]" name="TC001_Admin_SearchEmployee_POM_TestScript" duration-ms="5736" started-at="2021-02-27T11:33:07 CST" finished-at="2021-02-27T11:33:12 CST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching...https://opensource-demo.orangehrmlive.com/]]>
+            </line>
+            <line>
+              <![CDATA[Login into Orange open source]]>
+            </line>
+            <line>
+              <![CDATA[Validate that you have logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Click Admin - Go to the admin page]]>
+            </line>
+            <line>
+              <![CDATA[Search username in field]]>
+            </line>
+            <line>
+              <![CDATA[Verify value in search table]]>
+            </line>
+            <line>
+              <![CDATA[Logout into Orange open source]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC001_Admin_SearchEmployee_POM_TestScript -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM@4313f5bc]" name="afterTest" is-config="true" duration-ms="114" started-at="2021-02-27T11:33:12 CST" finished-at="2021-02-27T11:33:12 CST">
+          <reporter-output>
+            <line>
+              <![CDATA[Close Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM -->
+    </test> <!-- TC003 -->
+  </suite> <!-- Regression_QA -->
+</testng-results>
